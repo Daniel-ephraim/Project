@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1750274059 source:d:\daniel's work\c programming\task6\task-six-project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FlatInterest.h"
+
+1750273737 d:\daniel's work\c programming\task6\task-six-project\flatinterest.h
+
+1750275114 source:d:\daniel's work\c programming\task6\task-six-project\flatinterest.c
+	<stdio.h>
+	<stdlib.h>
+	"FlatInterest.h"
+
